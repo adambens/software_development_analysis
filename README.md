@@ -1,5 +1,5 @@
 # Exploring the Evolution of Software Projects
-This repository contains my personal work on analyzing the evolution of software projects.
+This repository contains my personal work on analyzing the evolution of software projects. Specifically, I mine data from the Github repositories in which these software projects live in order to extract insights.
 
 # Content
 ### [Evolution of Linux]()
